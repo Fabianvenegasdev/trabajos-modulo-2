@@ -1,4 +1,3 @@
-hola.py: 
 # hola.py
 Descripción del Programa
 Este script interactúa con el usuario preguntando su nombre y edad, y luego le indica si es mayor o menor de edad.
@@ -19,7 +18,6 @@ No tiene manejo de errores. Es útil como ejemplo básico para principiantes.
 
 ----------------------------------------------------------------
 
-clasificacionporedad.py:
 # clasificacionporedad.py
 Este script saluda al usuario, le pregunta su edad y lo clasifica en una categoría: menor de edad, adulto o adulto mayor. También ofrece un resumen opcional de las categorías usadas.
 
@@ -41,7 +39,6 @@ El programa termina si el usuario no ingresa un número válido como edad.
 --------------------------------------------------------------
 
 
-utilidades_matematicas.py
 # utilidades_matematicas.py
 Este script contiene un conjunto de funciones básicas para realizar cálculos matemáticos comunes, como áreas de figuras geométricas, factoriales y verificación de números primos.
 
@@ -63,7 +60,6 @@ No incluye manejo de errores, por lo que se recomienda usarlas con valores corre
 
 ----------------------------------------------------------------
 
-inventario.py
 # inventario.py
 Este script implementa un sistema básico de gestión de inventario. Permite agregar, eliminar y actualizar productos, listar por categoría, calcular el valor total del inventario y exportar los datos a un archivo CSV.
 
@@ -86,7 +82,6 @@ Este programa está pensado como base para sistemas más complejos de control de
 
 -----------------------------------------------------------------
 
-persona.py
 # persona.py
 Este script define una clase básica llamada Persona que permite almacenar y gestionar información sobre una persona: nombre, edad y correo electrónico.
 
@@ -109,7 +104,6 @@ Este código no incluye manejo de errores al crear la persona, por lo que se asu
 
 ----------------------------------------------------------------
 
-calculadora.py
 # calculadora.py
 Este script implementa una calculadora básica que permite realizar operaciones aritméticas comunes: suma, resta, multiplicación y división.
 
@@ -134,7 +128,7 @@ No permite repetir operaciones automáticamente, solo ejecuta una vez por llamad
 
 ------------------------------------------------------------
 
-Logros en este modulo:
+# Logros en este modulo:
 
 Durante este módulo trabajé en varios proyectos sencillos que me ayudaron a aprender los conceptos básicos de programación en Python. Cada uno fue una práctica diferente, pero todos me permitieron avanzar paso a paso.
 
@@ -159,3 +153,23 @@ Resolver problemas usando lógica de programación.
 Escribir código más limpio y organizado.
 Trabajar con entrada del usuario y gestionar posibles errores.
 Usar herramientas básicas de Python para proyectos prácticos.
+
+------------------------------------------------------------------
+
+# Reflexiones realizadas en el módulo:
+
+Al comenzar este módulo, me enfrenté a muchos desafíos que no solo eran técnicos, sino también mentales. Había días en los que veía el código y sentía que no entendía nada. Las palabras como "función", "clase" o "método" sonaban lejanas y abstractas. Pero poco a poco, con cada ejercicio, fui comprendiendo que programar no es tanto memorizar reglas como aprender a pensar de otra manera: paso a paso, con paciencia y mucha práctica.
+
+Los primeros ejercicios, como el saludo al usuario o la clasificación por edad, me ayudaron a ganar confianza. Me di cuenta de que podía comunicarme con la computadora, que mis líneas de código podían tener sentido y propósito. Aunque al principio usaba variables sin entender bien cómo funcionaban, con el tiempo comencé a ver cómo organizar mejor las ideas y estructurar mi pensamiento lógico.
+
+Cuando empecé a trabajar con funciones, noté que el código se volvía más limpio y reutilizable. Fue un momento clave: dejé de escribir todo dentro del mismo bloque y empecé a modularizar, a pensar en pequeñas piezas que juntas formaban algo más grande. Esto fue fundamental cuando trabajé en utilidades matemáticas o en la calculadora, donde separar cada operación en su propia función me permitió manejar mejor la complejidad.
+
+La introducción a la programación orientada a objetos fue otro punto importante. Al crear la clase Persona, al principio me costó entender qué era lo que realmente representaba un objeto, pero luego vi que no era más que una forma de organizar datos y acciones relacionadas entre sí. Eso me abrió la mente a nuevas formas de diseñar programas, más cercanas a cómo vemos el mundo: con cosas que tienen propiedades y comportamientos.
+
+También aprendí a convivir con los errores. En un principio, ver un mensaje rojo de error me frustraba mucho. Pensaba que había hecho algo malo. Pero ahora entiendo que los errores no son fallas, sino guías. El try/except no solo sirve para evitar que el programa se rompa, también me enseñó a anticiparme a posibles fallos del usuario y a mejorar la experiencia de uso.
+
+El proyecto del inventario fue uno de los más completos. Allí tuve que integrar varias habilidades: usar diccionarios, validar entradas, exportar información… Y aunque no es un sistema profesional, me dio una idea de cómo podría desarrollarse una aplicación real. Ver cómo todo funcionaba junto me llenó de satisfacción.
+
+Lo más importante que llevo de estos ejercicios es haber aprendido a no rendirme ante la dificultad. Programar no siempre es fácil, pero cada vez que logro resolver un problema (por pequeño que sea) siento que estoy avanzando. Cada línea de código ya no me asusta; ahora sé que detrás de ella hay una idea, una solución, un aprendizaje.
+
+Este módulo no solo me enseñó Python, también me enseñó paciencia, constancia y a valorar los pequeños avances. Ahora tengo una base sólida, pero sobre todo tengo confianza en que puedo seguir aprendiendo, seguir mejorando y, poco a poco, construir cosas aún más grandes.
